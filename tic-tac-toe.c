@@ -115,3 +115,4 @@ void board()
 
 
     printf("     |     |     \n");
+}
